@@ -33,7 +33,7 @@
 .header_navigation ul li{
     float:left;
     line-height: 67px;
-    padding: 0px 20px;
+    padding: 0px 15px;
     margin-left: 3px;
     
    
@@ -58,8 +58,8 @@
 
 }
 .content img{
-    height: 346,19px;
-    width: 220px;
+    height: 280px;
+    width: 200px;
     float: right;
     margin-right: 3px;
 }
@@ -80,6 +80,7 @@
 .content button{
     background-color:  blue;
     margin-left: 40px;
+    color: white;
 
 
 }
