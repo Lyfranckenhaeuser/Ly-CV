@@ -39,7 +39,7 @@
     position: relative;
     text-align: left;
     padding-top: 40px;
-    padding-bottom: 20px;
+   
    
 }
 .content h3{
@@ -47,6 +47,7 @@
 }
 .content p{
     margin-left: 5px;
+    margin-right: 50%;
 }
 .content img{
     height: auto;
