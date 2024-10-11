@@ -12,7 +12,7 @@
     height: 90px;
     background: #D9D9D9;
     text-align: center;
-    font: Arial;
+    font-family: Arial, Helvetica, sans-serif;
     padding-top: 40px;
     
 }
@@ -29,19 +29,21 @@
 }
 .header_navigation ul{
     list-style: none;
+    padding-left: 0px;
+
 }
 .header_navigation ul li{
     float:left;
     line-height: 67px;
     padding: 0px 15px;
     margin-left: 3px;
+
     
    
 } 
 .content{
     width: 390px;
     height: 644px;
-    font-style: Arial;
     background-color: #CFE5F1;
     position: relative;
     text-align: left;
@@ -58,49 +60,52 @@
 
 }
 .content img{
-    height: 280px;
+    height: 250px;
     width: 200px;
     float: right;
     margin-right: 3px;
 }
 .content h4{
-   margin-left: 7px;
+   margin-left: 2px;
     
 }
-.content label{
-    margin-left: 4px;
+.text area {
+  margin-left: 2px;
 }
 
-.div label{
-    margin-left: 4px;
-}
-.content textarea{
-    margin-left: 4px;
-}
 .content button{
     background-color:  blue;
-    margin-left: 50px;
+   
     color: white;
+    padding: 8px;
 
 
 }
 .fa-linkedin {
     background: #007bb5;
     color: white;
-    font-size: 2.5em;
-    margin-left: 40px;
+    margin-right: 10px;
+    float: right;
+    
+   
+  
+    
     
 }   
 .fa-facebook {
     background: #3B5998;
     color: white;
-    size: 64px;
+    margin-right: 3px;
+    float: right;
    
   }
 .fa-youtube {
     background: #bb0000;
     color: white;
-    size: 36px;
+    margin-right: 3px;
+    float: right;
+    ;
+    
 }
 .footer{
     width: 390px;
