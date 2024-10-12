@@ -51,9 +51,10 @@
 }
 .content img{
     height: auto;
-    width: 170px;
+    width: 150px;
     float: right;
     margin-right: 5px;
+    
 }
 .content h4{
    margin-left: 3px;
